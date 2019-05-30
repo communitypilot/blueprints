@@ -14,6 +14,9 @@ I did share some of my ideas on openpilot-traffic paper which can be found [here
 
 **Please note we are not a competition to [openpilot](https://github.com/commaai/openpilot), Since we are just trying to improve overall driving experience where future is L3 however the core is still  using openpilot but not using the name openpilot to avoid confusion so we are calling it CommunityPilot. It is built by community for the community:)**
 
+Please join our [ discord](https://discord.gg/UBnEmYp)
+
+
 ## ML and DL
 
 **So what else can we improve with ML & DL?**
