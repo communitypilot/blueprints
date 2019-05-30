@@ -8,9 +8,11 @@ Although there is hardware that will eventually need to be changed from EON to s
 
 Although it might sound like we are trying to try to replicate some of the Tesla's autopilot features however the main focus for the project is to build L3 system that is open source except for staying with L2 where only thing it can do right now is just stay in lane but it can do even more with help of community.
 
-> "Give me a Tesla but not give me a Tesla"-Kumar:)
+> "Give me a Tesla but not give me a Tesla."-Kumar:)
 
 I did share some of my ideas on openpilot-traffic paper which can be found [here](https://github.com/icmma/openpilot-traffic) 
+
+Please note we are not a competition to openpilot, Since we are just trying to improve overall driving experience where future is L3 using openpilot but not using the name openpilot to avoid confusion we are calling CommunityPilot.
 
 
 ## ML and DL
