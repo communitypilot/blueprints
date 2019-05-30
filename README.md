@@ -12,8 +12,7 @@ Although it might sound like we are trying to try to replicate some of the Tesla
 
 I did share some of my ideas on openpilot-traffic paper which can be found [here](https://github.com/icmma/openpilot-traffic) 
 
-Please note we are not a competition to openpilot, Since we are just trying to improve overall driving experience where future is L3 using openpilot but not using the name openpilot to avoid confusion we are calling CommunityPilot.
-
+**Please note we are not a competition to openpilot, Since we are just trying to improve overall driving experience where future is L3 using openpilot but not using the name openpilot to avoid confusion we are calling CommunityPilot.**
 
 ## ML and DL
 
